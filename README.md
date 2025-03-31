@@ -33,9 +33,8 @@ This Jupyter Notebook contains a comprehensive analysis of air quality data, imp
   - ROC curves
 - Feature importance analysis
 
-## 🛠️ Installation & Usage
+## 🛠️ Usage
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/Jackop05/AirQualityAnalysis.git
-   cd AirQualityAnalysis
+You can copy click on the file and preview it or download the file and open it in your code editor.
+
+
