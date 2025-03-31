@@ -34,7 +34,6 @@ This Jupyter Notebook contains a comprehensive analysis of air quality data, imp
 - Feature importance analysis
 
 ## 🛠️ Usage
-
 You can copy click on the file and preview it or download the file and open it in your code editor.
 
 
