@@ -34,6 +34,6 @@ This Jupyter Notebook contains a comprehensive analysis of air quality data, imp
 - Feature importance analysis
 
 ## 🛠️ Usage
-You can copy click on the file and preview it or download the file and open it in your code editor.
+You can click on the link [View on GitHub](https://github.com/Jackop05/AirQualityAnalysis/blob/master/PRiAD%20-%20projekt%20-%20Klasyfikacja%20jako%C5%9Bci%20powietrza%20wzgl%C4%99dem%20metryk%20zanieczyszczenia.ipynb) and preview it or download the file and open it in your code editor.
 
 
